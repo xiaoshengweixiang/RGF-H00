@@ -1,5 +1,5 @@
 # RGF-H00
-# RGF-matlab
+
 A code provides simplest Green-Function calculation.
 Focus on system has such a form, under tight-binding model.
 
